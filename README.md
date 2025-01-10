@@ -24,7 +24,7 @@ By working with this project, you will:
 - ⌨️ Enhance your skills in handling user input.
 
 ### Built With: 🛠️
-- Programming Language: C (or any language you're using).
+- Programming Language: C++ (or any language you're using).
 - Simple logic, fun gameplay.
 
 ### Run the Game: 🚀
