@@ -40,6 +40,69 @@ Feel free to edit or expand any of these sections based on your needs. This cont
 
 ---
 
+Got it! Let's update the README to reflect your advanced calculator code:
+
+---
+
+## TASK 2: Advanced Calculator 🧮
+
+### How It Works: ⚙️
+1. 🔢 The user inputs two numbers.
+2. ➕ The user selects an arithmetic operation (addition, subtraction, multiplication, division, modulus, power, or square root).
+3. 💻 The program performs the chosen operation on the provided numbers.
+4. 📉 The result is displayed to the user.
+5. 🔄 Users can choose to perform another calculation or exit.
+
+### Game Features: ✨
+- 🔀 Support for multiple operations: Addition, Subtraction, Multiplication, Division, Modulus, Power, and Square Root.
+- 🚫 Error handling for invalid operations and division by zero.
+- 🔁 Looping structure to allow multiple calculations.
+
+### Learning Objectives: 🎓
+By developing this advanced calculator, you will:
+- 🚀 Understand how to handle user inputs in your code.
+- 🔧 Get hands-on experience with a variety of arithmetic operations.
+- 🔄 Learn how to implement loops and conditional statements for repeated processes.
+- 🔀 Practice handling error cases like division by zero or invalid operations.
+
+### Built With: 🛠️
+- Programming Language: C++
+- Advanced math functions from the `<cmath>` library.
+
+### Run the Calculator: 🚀
+Clone or download this repo, compile the code, and start calculating!
+
+Here's a well-crafted version of the "About Us" section for your CODSOFT repo:
+
+---
+
+## About CODSOFT 🌟
+
+Welcome to CODSOFT, a vibrant and diverse community where individuals with common goals and aspirations come together. Our mission is to create opportunities in various domains, including leadership development, learning, student engagement, and fostering shared interests.
+
+### Our Vision 🌠
+At CODSOFT, we believe in the transformative power of leadership and its ability to drive positive change. Our community is dedicated to providing the platforms and resources necessary for our members to develop their leadership skills.
+
+### Our Initiatives 🌱
+Through mentorship programs, interactive workshops, and collaborative projects, we empower our members to step into leadership roles and make a meaningful impact in their respective fields.
+
+### Join Us! 🤝
+Whether you're a seasoned professional or just starting your journey, CODSOFT offers a supportive environment where you can grow, learn, and connect with like-minded individuals.
+
+### Contact Us 📧
+Visit our website: [www.codsoft.in](http://www.codsoft.in) to learn more and get involved!
+
+---
+
+Feel free to tweak it further based on your preferences. If you need any more assistance, just let me know! 🌟
+
+---
+
+Feel free to tweak or expand this section further based on your needs. Keep up the awesome work! 💡
+
+If you need anything else, I'm right here. 🚀
+
+
 ## TASK 2: Advanced Calculator 🧮
 
 ### How It Works: ⚙️
