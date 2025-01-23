@@ -1,6 +1,6 @@
-# CODSOFT-NumberGuessingGame 🎮
+# CODSOFT-InternShip 🎯
 
-## TASK 1: Number Guessing Game 🎯
+## TASK 1: Number Guessing Game 🎮
 
 This repository contains a simple yet engaging Number Guessing Game where the user guesses a randomly generated number. The game will guide you through the process with helpful feedback after each guess.
 
@@ -35,3 +35,91 @@ Clone or download this repo, compile the code, and start guessing!
 Feel free to edit or expand any of these sections based on your needs. This content should help explain what your project is about and what users or collaborators can expect. Let me know if you'd like additional sections or details! 💡
 
 ---
+
+## TASK 2: Advanced Calculator 🧮
+
+### How It Works: ⚙️
+1. 🔢 The user inputs two numbers.
+2. ➕ The user selects an arithmetic operation (addition, subtraction, multiplication, division, modulus, power, or square root).
+3. 💻 The program performs the chosen operation on the provided numbers.
+4. 📉 The result is displayed to the user.
+5. 🔄 Users can choose to perform another calculation or exit.
+
+### Game Features: ✨
+- 🔀 Support for multiple operations: Addition, Subtraction, Multiplication, Division, Modulus, Power, and Square Root.
+- 🚫 Error handling for invalid operations and division by zero.
+- 🔁 Looping structure to allow multiple calculations.
+
+### Learning Objectives: 🎓
+By developing this advanced calculator, you will:
+- 🚀 Understand how to handle user inputs in your code.
+- 🔧 Get hands-on experience with a variety of arithmetic operations.
+- 🔄 Learn how to implement loops and conditional statements for repeated processes.
+- 🔀 Practice handling error cases like division by zero or invalid operations.
+
+### Built With: 🛠️
+- Programming Language: C++
+- Advanced math functions from the `<cmath>` library.
+
+### Run the Calculator: 🚀
+Clone or download this repo, compile the code, and start calculating!
+
+---
+
+## TASK 3: Tic-Tac-Toe Game 🎮
+
+### How It Works: ⚙️
+1. 🎲 Create a 3x3 grid as the game board.
+2. 🙋 Assign "X" and "O" to two players.
+3. 📋 Show the current state of the board.
+4. ✏️ Prompt the current player to enter their move.
+5. 🛠️ Update the game board with the player's move.
+6. 🏆 Check if the current player has won.
+7. 🤝 Determine if the game is a draw.
+8. 🔄 Alternate turns between "X" and "O" players.
+9. 🥇 Show the result of the game (win, draw, or ongoing).
+10. 🔁 Ask if the players want to play another game.
+
+### Game Features: ✨
+- 🎮 Simple console-based game for two players.
+- 📊 Real-time game board display.
+- 🥇 Win, draw, and ongoing game state detection.
+- 🔄 Play again option for continuous fun.
+
+### Learning Objectives: 🎓
+By developing this Tic-Tac-Toe game, you will:
+- 🚀 Improve your understanding of 2D arrays to create the game board.
+- 🔄 Implement turn-based gameplay using loops and conditional statements.
+- 🕹️ Enhance your skills in handling user input and game state updates.
+- 🎯 Learn to detect win and draw conditions.
+
+### Built With: 🛠️
+- Programming Language: C++
+- Basic game logic and interactive gameplay.
+
+### Run the Game: 🚀
+Clone or download this repo, compile the code, and start playing Tic-Tac-Toe!
+
+---
+
+## About CODSOFT 🌟
+
+Welcome to CODSOFT, a vibrant and diverse community where individuals with common goals and aspirations come together. Our mission is to create opportunities in various domains, including leadership development, learning, student engagement, and fostering shared interests.
+
+### Our Vision 🌠
+At CODSOFT, we believe in the transformative power of leadership and its ability to drive positive change. Our community is dedicated to providing the platforms and resources necessary for our members to develop their leadership skills.
+
+### Our Initiatives 🌱
+Through mentorship programs, interactive workshops, and collaborative projects, we empower our members to step into leadership roles and make a meaningful impact in their respective fields.
+
+### Join Us! 🤝
+Whether you're a seasoned professional or just starting your journey, CODSOFT offers a supportive environment where you can grow, learn, and connect with like-minded individuals.
+
+### Contact Us 📧
+Visit our website: [www.codsoft.in](http://www.codsoft.in) to learn more and get involved!
+
+---
+
+Feel free to tweak or expand any of these sections based on your needs. Keep up the awesome work! 💡
+
+If you need anything else, I'm right here. 🚀
